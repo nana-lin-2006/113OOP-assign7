@@ -1,6 +1,6 @@
 
 #ifndef PLAYER_H
-#define PLAYERF_H
+#define PLAYER_H
 #include "gameObject.h"
 #include <vector>
 #include <iostream>
